@@ -5,7 +5,7 @@
 
 ## Decripcion
 
-Aplicacion contraseñas aleatorias con las diversas caracteristicas que seleccione el usuario.
+Aplicacion que crea contraseñas aleatorias con las diversas caracteristicas que seleccione el usuario.
 
 ## Link
 - https://lustrous-fenglisu-41151e.netlify.app/
