@@ -21,8 +21,8 @@ Aplicacion que crea contraseñas aleatorias con las diversas caracteristicas que
 ** Diego Nieves **
 
 - [LinkedIn](https://www.linkedin.com/in/diego-nieves-04b409242/)
-- [Portafolio web](https://nvs-dlc.netlify.app)
+- [Portafolio web](https://nvs-portfolio.netlify.app)
 
-## Contratación
+## Contactame
 
-Si quieres contratarme puedes escribirme a nieves.diego0426@gmail.com 👍.
+Si quieres contactarme puedes escribirme a nieves.diego0426@gmail.com 👍.
